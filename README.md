@@ -1,4 +1,4 @@
-simplicity, currently pursuing a degree in Computer Science. Newbie programmer, just learned the basics of Python recently.
+simplicity, currently pursuing a degree in Computer Science. Newbie programmer, just learned the basics of Python, Java, HTML and SQL recently.
 Currently improving my programming skills for future employability.
 
 <!---
