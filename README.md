@@ -1,5 +1,4 @@
-simplicity, currently pursuing a degree in Computer Science. Newbie programmer, just learned the basics of Python, Java, HTML and SQL recently.
-Currently improving my programming skills for future employability.
+Third year student at Sunway University, Malaysia. Currently pursuing a degree in Computer Science. 
 
 <!---
 simplicity0308/simplicity0308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
